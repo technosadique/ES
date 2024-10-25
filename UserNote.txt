@@ -1,0 +1,11 @@
+-  install elastic search inside your project folder using below command
+    d/xampp/htdocs/ES composer require elasticsearch/elasticsearch 2.1.*
+
+- create index.php file and start coding for indexing, retrieving, updating, searching and deleting documents in Elasticsearch.
+
+- download the elastic search 2.1.2 or higher version and keep it in your desktop and run the "elasticsearch.bat" file
+
+- open your browser and type below 
+  http://localhost/ES/index.php 
+
+
